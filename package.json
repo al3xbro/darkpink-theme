@@ -17,8 +17,10 @@
                 "path": "./themes/darkpink-color-theme.json"
             }
         ]
-    }
-  "repository": {
-        "url": ""
-    }
+    },
+    "repository": {
+        "url": "https://github.com/al3xbro/darkpink-theme"
+    },
+    "publisher": "al3xbro",
+    "icon": "logo.png"
 }
