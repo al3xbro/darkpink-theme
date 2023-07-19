@@ -1,0 +1,24 @@
+{
+    "name": "darkpink-theme",
+    "displayName": "darkpink-theme",
+    "description": "Alex's awesome VS Code theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.80.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "darkpink",
+                "uiTheme": "hc-black",
+                "path": "./themes/darkpink-color-theme.json"
+            }
+        ]
+    }
+  "repository": {
+        "url": ""
+    }
+}
