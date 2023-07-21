@@ -2,7 +2,7 @@
     "name": "darkpink-theme",
     "displayName": "darkpink-theme",
     "description": "Alex's awesome VS Code theme",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "engines": {
         "vscode": "^1.80.0"
     },
