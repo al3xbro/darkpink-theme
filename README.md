@@ -1,2 +1,2 @@
 # darkpink-theme
-Alex's custom VS Code theme. Meant for use with a wallpaper extension.
+Alex's custom VS Code theme! It's pink tee hee
